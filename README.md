@@ -1,6 +1,6 @@
 # Save To File Rundeck Log Filter Plugin
 
-This log filter plugin save the log data from a job or step to a file.
+This log filter plugin saves the log data from a job or step to a file.
 
 #### Plugin Properties
 
