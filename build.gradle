@@ -79,7 +79,7 @@ jar {
         attributes 'Rundeck-Plugin-Tags': 'java,logfilter'
         attributes 'Rundeck-Plugin-License': 'Apache 2.0'
         attributes 'Rundeck-Plugin-Source-Link': 'https://github.com/rundeck-plugins/save-to-file'
-        attributes 'Rundeck-Plugin-Docs-Link': ''
+        attributes 'Rundeck-Plugin-Docs-Link': 'https://github.com/rundeck-plugins/save-to-file'
         attributes 'Rundeck-Plugin-Target-Host-Compatibility': 'all'
         attributes 'Rundeck-Plugin-Version': rundeckPluginVersion
         attributes 'Rundeck-Plugin-Archive': 'true'
