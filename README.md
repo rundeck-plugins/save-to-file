@@ -1,3 +1,7 @@
+# Deprecated
+
+This repository is no longer maintained and is only avaiable for historical example purposes.  It will be deleted at some point in the future.
+
 # Save To File Rundeck Log Filter Plugin
 
 This log filter plugin saves the log data from a job or step to a file.
